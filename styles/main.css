@@ -1,0 +1,23 @@
+
+#projects {
+  padding: 72px 120px 144px 120px;
+  border: solid 1px white;
+}
+
+article {
+  border: solid 1px purple;
+  h4 {
+  display: flex;
+  justify-content: center;
+  font: var(--subtitle);
+  color: var(--red);
+  }
+  h2 {
+  display: flex;
+  justify-content: center;
+  font: var(--title-md);
+  color: var(--gray-600);
+  margin-bottom: 56px;  
+  }
+}
+
