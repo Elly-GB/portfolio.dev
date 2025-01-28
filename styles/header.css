@@ -49,6 +49,7 @@ header {
   display: flex;
   justify-content: center;
   font: var(--text-md);
+  margin-bottom: 94px;
 }
 
 
