@@ -45,3 +45,12 @@ header {
 
 /* Parte 2/2 */
 
+#tags {
+  display: flex;
+  justify-content: center;
+}
+
+#icon {
+  display: flex;
+  align-items: center;
+}
