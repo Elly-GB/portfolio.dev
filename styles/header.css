@@ -1,5 +1,5 @@
 header {
-  padding: 120px 163px 57px;
+  padding: 120px 163px 0px;
   border: solid 1px rgb(229, 213, 213);
   background-image: url(../assets/Background_Intro.png);
   background-size: cover;
@@ -52,4 +52,12 @@ header {
   margin-bottom: 94px;
 }
 
-
+#separated {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 57px;
+  img {
+    width: 23px;
+    height: 23px;
+  }
+}
