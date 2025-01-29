@@ -1,5 +1,8 @@
 footer {
   padding: 128px 120px 200px;
+  background-image: url(../assets/Background_Contacts.png);
+  background-size: contain;
+  background-position: center;
 }
 
 articlel {
