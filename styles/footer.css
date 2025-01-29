@@ -43,12 +43,7 @@ links {
     align-items: center;
 
   }
-
-  #link {
-    width: 28px;
-    height: 28px;
-    margin-right: 12px ;
-  }
+  
   h3 {
     margin-right: 220px;
     align-items: start;
@@ -58,5 +53,4 @@ links {
     width: 20px;
     height: 20px;
   }
-
 }

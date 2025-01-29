@@ -44,3 +44,48 @@
 .divs:hover{
     border: 1.5px solid var(--gray-400);
   }
+
+  /* blue */
+.blue {
+  fill: #878EA1;
+  width: 28px;
+  height: 28px;
+}
+.blue:hover {
+  fill: var(--blue);
+  
+}
+
+  /* purple */
+.purple {
+  fill: #878EA1;
+  width: 28px;
+  height: 28px;
+}
+.purple:hover {
+  fill: var(--purple);
+  
+}
+  /* yellow */
+.yellow {
+  fill: #878EA1;
+  width: 28px;
+  height: 28px;
+}
+.yellow:hover {
+  fill: var(--yellow);
+  
+}
+  /* red */
+.red {
+  fill: #878EA1;
+  width: 28px;
+  height: 28px;
+}
+.red:hover {
+  fill: var(--red);
+  
+}
+
+
+
