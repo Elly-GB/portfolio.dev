@@ -1,5 +1,5 @@
 footer {
-  padding: 128px 120px 200px;
+  padding: 128px 120px 180px;
   background-image: url(../assets/Background_Contacts.png);
   background-size: contain;
   background-position: center;
@@ -76,4 +76,11 @@ links {
 }
 #email:hover {
   border: 2px solid var(--red)
+}
+
+elly p {
+  text-align: center;
+  font: 400 19px/120%  "Loved by the King", serif;
+  color: rgb(139, 129, 136);
+  margin-bottom: 50px;
 }

@@ -1,11 +1,9 @@
 
 #projects {
   padding: 72px 120px 144px 120px;
-  border: solid 1px white;
 }
 
 article {
-  border: solid 1px purple;
   h4 {
   display: flex;
   justify-content: center;
@@ -23,7 +21,6 @@ article {
 
 pictures {
   margin: 0px 40px 0px;
-  border: solid 1px red;
   img {
     width: 306px;
     height: 156px;

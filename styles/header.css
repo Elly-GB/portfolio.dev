@@ -1,13 +1,11 @@
 header {
   padding: 120px 163px 0px;
-  border: solid 1px rgb(229, 213, 213);
   background-image: url(../assets/Background_Intro.png);
   background-size: cover;
 }
 
 #start {
   margin: 0px 180px 0px;
-  border: solid 1px rgb(234, 0, 255);
 }
 
 /* Parte 1/2 */
@@ -17,7 +15,6 @@ header {
   align-items: center;
   justify-content: center;
   margin: 0px 35px 0px;
-  border: solid 1px red;
   /* Imagem e Textos */
   img {
     width: 112px;

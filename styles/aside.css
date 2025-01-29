@@ -1,5 +1,4 @@
 aside {
-  border: 1px solid red;
   padding: 88px 120px 120px;
   background-color: var(--gray-100);
 }
@@ -10,7 +9,6 @@ examples {
   align-items: flex-start;
   justify-content: center;
   gap: 24px;
-  border: 1px solid orange;
   margin: 0px 120px 0px;
   div {
     border: 2.5px solid var(--gray-200);

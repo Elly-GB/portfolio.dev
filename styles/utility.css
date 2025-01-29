@@ -42,7 +42,7 @@
 }
 
 .divs:hover{
-    border: 1.5px solid var(--gray-400);
+    border: 2px solid var(--gray-400);
   }
 
   /* blue */
