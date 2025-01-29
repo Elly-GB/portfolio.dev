@@ -41,16 +41,36 @@ links {
     border-radius: 8px;
     display: flex;
     align-items: center;
-
   }
-  
+
   h3 {
-    margin-right: 220px;
-    align-items: start;
+    
     font: 500 16px/140% var(--font-family-maven);
   }
   #seta {
     width: 20px;
     height: 20px;
+
   }
+
+  finalmente {
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+  } 
+ }
+
+
+#linkedin:hover {
+  border: 2px solid var(--blue)
+}
+#insta:hover {
+  border: 2px solid var(--purple)
+}
+#git:hover {
+  border: 2px solid var(--yellow)
+}
+#email:hover {
+  border: 2px solid var(--red)
 }
