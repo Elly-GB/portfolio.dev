@@ -20,3 +20,19 @@ article {
   margin-bottom: 56px;  
   }
 }
+
+pictures {
+  margin: 0px 40px 0px;
+  border: solid 1px red;
+  img {
+    width: 306px;
+    height: 156px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  h3 {
+    font: var(--title-sm);
+    color: var(--gray-600);
+  }
+}
+
