@@ -9,7 +9,6 @@ examples {
   align-items: flex-start;
   justify-content: center;
   gap: 24px;
-  margin: 0px 120px 0px;
   div {
     border: 2.5px solid var(--gray-200);
     border-radius: 12px;
