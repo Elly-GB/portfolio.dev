@@ -25,5 +25,6 @@ examples {
   h3 {
     font: var(--title-sm);
     color: var(--gray-600);
+    margin-bottom: 8px;
   }
 }
