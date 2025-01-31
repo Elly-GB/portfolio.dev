@@ -1,12 +1,11 @@
 footer {
   padding: 128px 120px 180px;
   background-image: url(../assets/Background_Contacts.png);
-  background-size: contain;
+  background-size: cover;
   background-position: center;
 }
 
 articlel {
-  border: solid 1px purple;
   h4 {
     display: flex;
     justify-content: center;
